@@ -1,3 +1,4 @@
+
 Gitをはじめるよ
 
 ファイルを更新したよ
@@ -6,3 +7,4 @@ git init
 git add
 git commit
 git status
+git rm
